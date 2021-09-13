@@ -1,0 +1,280 @@
+[[rtmidi]]
+arch = "aarch64"
+git-tree-sha1 = "50a2ffd1cf0d79ea1d4f4c9ce49316155e52f85b"
+os = "macos"
+
+    [[rtmidi.download]]
+    sha256 = "c89070d60a4e0b6721931b22ec6115d3207be654589ab03f067974cd303dc8a3"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.aarch64-apple-darwin.tar.gz"
+[[rtmidi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ea7900b282bcc53d73b2a5739a360c804cc0679"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "6d630e90b68f71bae4c34908cdc493824f913bcdb3f3fc9c77d2ffae5c0488d0"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[rtmidi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ae2e0058c62cdc9a8cef20f8603345e5bae1b6c"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "af34d09705d248940ed32f80f8d5b0cc711665ef7070901cba367f14897e50ea"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[rtmidi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "511e2107109cbddc742ee6ef706c2d2653a8722c"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "cbce337b2533da8a16733f827c7ad474c3c0b645e879df4b2ea498d9400935a2"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[rtmidi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6ba571fca62d736595b8ea2a403e9a175a1b9b7b"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "946cf5be4d4a28ca7cba4ccab39b0c3dbc9c2f6b96f6c4fbcaab97c8f3a04888"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[rtmidi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc98e6c29dbd273f33d5cce05de5ea6b48c5de19"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "7084ce1d9fa91069ae76494dfce9bdc7dce68f6a96243b9164a4f15eee0abd91"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[rtmidi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8710a4a539534aae1e83a370c6384e9032867b62"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "09ef03c6d1f512513b0df36721492e65546fe8d1a4c04046eed814f6bf944925"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[rtmidi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "49a5e0b2c23a9fef625c7d7b3a879575c25e2a15"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "b088f23f1dbc433d7155886106dcd11185c5d561aae289b0cc882a4559b995f6"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[rtmidi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25727e518c27c42255f1e3b3636afa963ac1db98"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "94b4c74c3108342a9af1efaf51fe2bab8bcf211eef88b87a76367197e1bc3c80"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[rtmidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b01f272edf2365b0728e352183ce94258cbeba6e"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "57aa816fc4da2957c3d1029a6ba7a402b5f43f1215fac6f5b7981341049a0ea9"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[rtmidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c56ef718ef19677bf2a3f063637316354a79b6fb"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "8a86b2930b5db9dc499566e353ad4297094d29a2fce667812b8b28fce6bc2ab1"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[rtmidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "087e920e323b823fcae02a14166fba54481b100c"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "4c6e2b42a7812ffea8c4c987f20391050e0c47d4b34609d86658f0ba68d417f3"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[rtmidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a393c12ba1d8269594096b6417c8d68492da3479"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "29d7a2fa89590350c114a7b82b3e8c51e889a8de04afa58328cf1c4e1744c94b"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[rtmidi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56f89b269424adcddc076f04244b7c2fbe31e6a5"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "65a1800e480fcd88205f46f86a1cb6202a9c8c78f2b2d89a7122d5e06c782e78"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[rtmidi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99028fafb1057bdf3974f1abba4e11225ade95d4"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "f310ade6f6d7ff834d8d2ae989c4d58704a17d7496395486c09d8318bf2150dc"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[rtmidi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5568086a8620bff2ba9c02c9e975b443cf4a01ad"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "32cccbbd600bac274ea7f82dbb824e65f0036efa419436fc9303a6a6e03774a7"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.i686-linux-musl-cxx03.tar.gz"
+[[rtmidi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b37bceac1ede74ff0e505f373c736a644a78ee90"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "f7b8f52020901b1527b323c203935e839bedb26de2d8a9733ce54f526659684d"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.i686-linux-musl-cxx11.tar.gz"
+[[rtmidi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9532363e6245209b8840bf68e9736c4d3d84ab9b"
+os = "windows"
+
+    [[rtmidi.download]]
+    sha256 = "d0e2647ffa6028bb8e6ec8686fd6fd4c9ecc956852ed5c0f336fc5ef0f35a406"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[rtmidi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31412fdad21908cc9c0f019676822954d380e8a1"
+os = "windows"
+
+    [[rtmidi.download]]
+    sha256 = "494a322727f4d9ddc912a4eee4275428d9f6d3ac8558a8f8e9dac938fa3c03f5"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[rtmidi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9dfe28ca18c61a8d13d707b8755152df94def99a"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "5fb34dc10de327de146c84f0e1dbe2bd6e0cc14695922da1acd5aa8776984f86"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[rtmidi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21bbda21299ebed23b5360a81b0b58961cb8c40d"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "cbb8d4d971f8c73a2e3662341d0bde7826d21af120cca96ad4ee23ec08244a16"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[rtmidi]]
+arch = "x86_64"
+git-tree-sha1 = "42ca93292ddc546cf0d9d217f013daaf2d74a125"
+os = "macos"
+
+    [[rtmidi.download]]
+    sha256 = "d57eceff5c82f881e8f936966dc6be2f3046fef740f6ed2246618be7cd819f9d"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.x86_64-apple-darwin.tar.gz"
+[[rtmidi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "03a14a8720056ae837b5630978fa72f0b936a1aa"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "a86ac92d11b144f3e1d9e236afef642344d7ffbf794dbb292fca64d2a4ee7964"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[rtmidi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b660b07ac369a438aebe656d2b2e6bd9580a53a"
+libc = "glibc"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "d9e0ad7ac4dca5bb7c0dbc1c6b7460c1482178d926839e638ead3897a017b01e"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[rtmidi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80942a366427b726e4b9581eba98e41c6c7b8cdb"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "793ffab9d55dfa7649a7456284fcb957ef5ccbffed086835e46472bd17d5863c"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[rtmidi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01a10a59878dda1c2f678f99f4c80b7b80235598"
+libc = "musl"
+os = "linux"
+
+    [[rtmidi.download]]
+    sha256 = "808637cf8258783b11986cd6117f1f7ecc674e0620460e8266d62e0c177989da"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[rtmidi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6abb87fd7e9fb5cf3b49e0f214911957d375212f"
+os = "windows"
+
+    [[rtmidi.download]]
+    sha256 = "653ab815db729dc38fde6c962588b4a83f0bd985d07e0ab5c189b9bd28373d52"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[rtmidi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13a58228bdec7604bd0dcc1a2d9a375eaa5a6d49"
+os = "windows"
+
+    [[rtmidi.download]]
+    sha256 = "3b8e42a622f1a6b85fcda0c6b404cf7f616c1d3159cef37605b7e33fbf750099"
+    url = "https://github.com/JuliaBinaryWrappers/rtmidi_jll.jl/releases/download/rtmidi-v4.0.0+0/rtmidi.v4.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
