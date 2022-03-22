@@ -1,6 +1,6 @@
 name = "rtmidi_jll"
 uuid = "dca704ad-10d6-524d-beb3-49f38e318998"
-version = "4.0.0+0"
+version = "6.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

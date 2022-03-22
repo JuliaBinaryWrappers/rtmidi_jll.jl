@@ -3,7 +3,7 @@ export rtmidi
 
 using alsa_jll
 JLLWrappers.@generate_wrapper_header("rtmidi")
-JLLWrappers.@declare_library_product(rtmidi, "librtmidi.so.5")
+JLLWrappers.@declare_library_product(rtmidi, "librtmidi.so.6")
 function __init__()
     JLLWrappers.@generate_init_header(alsa_jll)
     JLLWrappers.@init_library_product(
